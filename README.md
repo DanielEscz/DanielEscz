@@ -7,4 +7,4 @@
 -->
 
 
-![DanielEscz GitHub stats](https://github-readme-stats.vercel.app/api?username=SrGles&show_icons=true&theme=tokyonight)
+![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielEscz&show_icons=true&theme=tokyonight)
