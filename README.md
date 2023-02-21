@@ -21,5 +21,19 @@
 
 <div style="display: inline_block">
    <img align="left" alt="html5" src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB/%3E />
+   <br>
+   <br>
   
   
+
+   
+   ## Redes Sociais 👽
+<div>
+<a href="https://www.linkedin.com/in/daniel-escobar-1553a9236/" target="_blank"><img 
+src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+   
+   
+   ## Total de Visitas no perfil 🕵️ <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/DanielEscz/count.svg" />
